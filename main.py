@@ -1,3 +1,5 @@
+# Rasandeep Singh Panag
+
 import random
 
 
@@ -95,6 +97,7 @@ class Tic_Tac_Toe:
         while True:
             print(f"Player {player} turn")
 
+# Code created by Rasandeep Singh Panag
             self.show_board()
             row, col = list(
                 map(int, input("Please enter row and column numbers with a space to fix spot: ").split()))
