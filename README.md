@@ -2,7 +2,7 @@
 
 
 ## General Concept
-There will be two player in a game. Two signs represent each player. The generals signs
+There will be two players in a game. Two signs represent each player. The generals signs
 used in the game are "X" and "O". Finally, there will be a board with 9 boxes.
 
 - First, one user (either "X" or "O") will place their sign in one of the available empty boxes.  
@@ -38,7 +38,6 @@ In the end, show the user final view of the board.
 
 ## Other relevant information:
 - All the python code is **main.py** file   
-- All the images of code running is in **images of code running** folder  
-
+- All the images of code running is in **imagesOfCodeRunning** folder  
 ## References:
 https://www.w3schools.com/python/   
